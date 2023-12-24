@@ -1,1 +1,5 @@
 # TinyWT-dataset
+
+## Structure
+
+## Download

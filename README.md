@@ -45,6 +45,8 @@ This repo is for the paper "TinyWT: A Large-Scale Wind Turbine Dataset of Satell
 Zenodo.org
 https://doi.org/10.5281/zenodo.10574992
 
+or
+
 Baidu NetDisk
 链接：https://pan.baidu.com/s/12YFgwikZICR0sJPLYS6xJg?pwd=2024 
 提取码：2024 

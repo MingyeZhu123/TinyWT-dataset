@@ -2,6 +2,7 @@
 This repo is for the paper "TinyWT: A Large-Scale Wind Turbine Dataset of Satellite Images for Tiny Object Detection", which has been accepted by the WACV 2024 CV4EO Workshop.
 
 ## Structure
+```
 ├── ann_dir
 │   ├── train
 │   │   ├── 00001_2018_01_27_02_49_51_026000_mask.json
@@ -38,6 +39,7 @@ This repo is for the paper "TinyWT: A Large-Scale Wind Turbine Dataset of Satell
 │   │   ├── 00001_lon_lat.npy
 │   │   ├── 00015_lon_lat.npy
 └── └── └── ...
+```
 
 ## Download
 Zenodo.org
